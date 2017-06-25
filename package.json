@@ -9,6 +9,7 @@
   "author": "hyww",
   "license": "ISC",
   "dependencies": {
+    "hmacsha1": "^1.0.0",
     "node-fetch": "^1.7.1",
     "uuid": "^3.0.1"
   }
