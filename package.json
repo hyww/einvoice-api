@@ -1,0 +1,15 @@
+{
+  "name": "einvoice-api",
+  "version": "1.0.0",
+  "description": "wrapper for einvoice api.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hyww",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^1.7.1",
+    "uuid": "^3.0.1"
+  }
+}
